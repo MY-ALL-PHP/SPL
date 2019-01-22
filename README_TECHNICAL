@@ -1,0 +1,77 @@
+
+
+:: SPL :: [STANDARD PHP LIBRARY]
+
+This is a documentation on  Standard Php Library -
+
+SPL provides a set of standard datastructure, a set of iterators to traverse over objects, a set of interfaces, a set of standard Exceptions,
+a number of classes to work with files and it provides a set of functions like spl_autoload_register()
+
+RIT_LEAVES_ONLY :: the php constant depcits the constant name : REVERSE ITERATOR :: LEAVES_ONLY
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+We have the following standard data structure available with our default php installation :
+Datastructures ¶
+    Table of Contents ¶
+        -SplDoublyLinkedList
+        -SplStack
+        -SplQueue
+        -SplHeap
+        -SplMaxHeap
+        -SplMinHeap
+        -SplPriorityQueue
+        -SplFixedArray
+        -SplObjectStorage
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Doubly Linked Lists
+    A Doubly Linked List (DLL) is a list of nodes linked in both directions to each others.
+    Iterator's operations, access to both ends, addition or removal of nodes have a cost of O(1) when the underlying structure is a DLL. It hence provides a decent implementation for stacks and queues.
+        :SplDoublyLinkedList
+            -SplStack
+            -SplQueue
+
+
+
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+..
